@@ -1,6 +1,6 @@
 package main
 
-import "go-tool/zip"
+import "github.com/tearsforyears/go-tool/zip"
 
 func main() {
 	zip.DeZip("./data/admin.jar", "./tmp/")
