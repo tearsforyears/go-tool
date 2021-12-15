@@ -3,7 +3,7 @@ package zip
 import (
 	"archive/zip"
 	"fmt"
-	"go-tool/support"
+	"github.com/tearsforyears/go-tool/support"
 	"io"
 	"io/ioutil"
 	"os"
